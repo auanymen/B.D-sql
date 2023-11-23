@@ -70,25 +70,25 @@ if (!empty($selecionado)) {
         .cadastrar {
             padding: 0.6em;
             border-radius: 5px;
-            background-color: rgb(118, 219, 242);
+            background-color: #7febba;
         }
 
         .excluir {
             padding: 0.6em;
             border-radius: 5px;
-            background-color: rgb(255, 0, 144);
+            background-color: #ff5a57;
         }
 
         .recuperar {
             padding: 0.6em;
             border-radius: 5px;
-            background-color: rgb(55, 195, 149);
+            background-color: #50dee6;
         }
 
         .alterar {
             padding: 0.6em;
             border-radius: 5px;
-            background-color: rgb(183, 27, 255);
+            background-color: #f6fc74;
         }
     </style>
 </head>
